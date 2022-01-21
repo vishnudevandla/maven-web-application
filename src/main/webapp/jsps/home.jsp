@@ -19,13 +19,13 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		Vishnu Software Solutions, 
+		Ramalingapuram,
+		Nellore,
+		+91-9959956613,
+		vsrdevandla@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to vishnu Technologies</a>
 	</span>
 </div>
 <hr>
@@ -33,7 +33,7 @@
 <hr>
 <hr>
 <p align=center>Vishnu Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Vishnu Technologies</a> </small></p>
 
 </body>
 </html>
